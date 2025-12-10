@@ -8,3 +8,5 @@ name = input('Vad är ditt namn?')
 farg = input('Vad är din favorit färg ' + name + '?')
 
 print("Hej " + name + " din favorit färg är " + farg + "!")
+
+print("Test")
