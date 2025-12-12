@@ -12,3 +12,6 @@ farg = input('Vad är din favorit färg ' + name + '?')
 print("Hej " + name + " din favorit färg är " + farg + "!")
 
 print("Test")
+
+if farg == "blå":
+ print ("Cool")
